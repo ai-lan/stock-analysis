@@ -12,5 +12,5 @@ This new assignment consists of one technical deliverable and a written report t
 
 Deliverable 2: A written analysis of your results (README.md)
 
-###** **Written Analysis of VBA Challenge
+###**Written Analysis of VBA Challenge
 
