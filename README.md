@@ -20,3 +20,8 @@ The main purpose of this challenge was to edit or refract the code to loop throu
 
 ## Results of Challenge
 
+As a result, the code did indeed run faster after being refractored. The duration for how long the code was ran before being refractor was estimated to around 0.48 seconds for the year 2017 and 0.49 seconds for the year 2018. However, after edits to the code or script, the time has been reduced down to around 0.421875 second for the year 2017 and 0.4296875 seconds for the year 2018. Through the results, it is critical to make sure inputted codes are well structured especially when in loops or nested conditions. Through the various nesting and conditions, it is easy to lose track of the order of your codes as well as the occurence of repetition. When codes are unstructured, the code run time will extends to longer duration.
+
+## Summary
+
+Through the challenge, it is safe to say code refractoring is not only helpful but also critical to ensure structured codes, the process includes the revision or editing of codes as well as "cleaning" up codes, this process will allow for codes to run more efficiently, the cleaned up formatting of the codes will also allow for easier maintainence. Some of the advantages of code refactoring include improving the code quality, identify and eliminate duplicate codes, and bug fix as a result of bad codes. Some of the disadvantage to codes refractoring includes 
