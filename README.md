@@ -14,6 +14,6 @@ Deliverable 2: A written analysis of your results (README.md)
 
 ## Written Analysis of VBA Challenge
 
-# Overview of Project
+**Overview of Project
 
 The main purpose of this challenge was to edit or refract the code to loop through all of the criteria for the data and analyze the duration it took for the analysis of the collected data. The main goal of the challenge was to determine when the codes has been altered or fracted in one way or another, did the script of the VBA run faster. The challenge in this module focus on the refactoring process because it is a critical point of the coding process. The edit or refractor of the code does not necessarily mean that the code is changed or a new code has been added to the overall script, it is simple a method to test the efficiency of the code or the overall script.
